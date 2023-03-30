@@ -1,9 +1,9 @@
 # tech_work_604
 Git repo
 
-Hello everybody?
+Hello everybody
 
-## What is GIT
+## What is GIT?
 
 Git is a version control system (VCS) used to track changes to code or any other kind of text files. It was created by Linus Torvalds in 2005, and has become the most widely used VCS for software development.
 
