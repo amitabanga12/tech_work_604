@@ -14,4 +14,5 @@ Git is typically used through a command-line interface, but there are also many 
 ## What Does git clone Do?
 
 git clone https://github.com/github/training-kit.git
+
 When you clone a repository, you don't get one file, like you may in other centralized version control systems. By cloning with Git, you get the entire repository - all files, all branches, and all commits.
